@@ -1,2 +1,13 @@
-# GitLab
-CSD 380 - Module 10
+# CSD 380 DevOps
+
+## Contributors
+- Nathan Braun
+- Joe Ayo
+- Truman Forey
+- Brett Fuller
+- Lea Trueworthy
+- Megan Wheeler
+     
+     
+     
+     
