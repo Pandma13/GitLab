@@ -1,0 +1,10 @@
+/* Style Sheet */
+/* Joe Ayo */
+body {
+  background-color: rgb(164, 207, 221);
+}
+
+blockquote {
+  font-style: italic;
+  color: rgb(0, 0, 0);
+}
