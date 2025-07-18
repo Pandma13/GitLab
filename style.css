@@ -8,3 +8,9 @@ blockquote {
   font-style: italic;
   color: rgb(0, 0, 0);
 }
+
+/* Lea Trueworthy */
+h1 {
+  text-align: center;
+  color: navy;
+}
